@@ -299,7 +299,7 @@ public:
 <hr>
 
 ## 224 Basic Calculator && 227 Basic Calculator II && 	772 Basic Calculator III 
-```
+```cpp
 class Solution {
 public:
     void calWithOp(stack<int>&nums,char op){
